@@ -37,7 +37,7 @@ callback is a function that is passed in as an argument for a higher order funct
 
 3. What is closure?
 
-gives access to functions within a function 
+gives access to a child function, the scope, of a parent function 
 
 4. Describe the four rules of the 'this' keyword.
 
@@ -48,7 +48,7 @@ explict binding-  used with .call
 
 
 5. Why do we need super() in an extended class?
-
+it is what gives the childe the proporties of the parent 
 its gets rid of the Object.create 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
@@ -80,12 +80,12 @@ Test your knowledge of advanced array methods and callbacks.
 This challenge takes a look at closures as well as scope. 
 * [ ] Use the [closure.js](challenges/closure.js) link to get started. Read the instructions carefully!
 
-#### Task C: Prototypes
+#### Task C: Prototypes: Finished 
 
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
 * [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
 
-#### Task D: Classes
+#### Task D: Classes: Finished 
 
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
 * [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!

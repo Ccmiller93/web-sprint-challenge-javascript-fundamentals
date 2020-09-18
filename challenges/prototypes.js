@@ -17,7 +17,7 @@
     width: 23,
     height: 3
   })
-  console.log(cube)
+  // console.log(cube)
 
 
 /* == Step 2: Volume Method ==
@@ -29,7 +29,7 @@
 CuboidMaker.prototype.volume = function () {
   return (this.length * this.width * this.height)
 }
-console.log(cube.volume())
+// console.log(cube.volume())
 
 
 /* == Step 3: Surface Area Method ==
@@ -41,7 +41,7 @@ console.log(cube.volume())
 CuboidMaker.prototype.surfaceArea= function () {
   return 2*(this.length * this.width + this.length * this.height + this.width * this.height)
 }
-console.log(cube.surfaceArea())
+// console.log(cube.surfaceArea())
 
 /* == Step 4: Create a new object that uses CuboidMaker ==
   Create a cuboid object that uses the new keyword to use our CuboidMaker constructor
