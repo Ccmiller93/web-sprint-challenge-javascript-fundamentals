@@ -17,8 +17,13 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+// parent/child inhearitence(spelling).... functions and methods are passed down
 
 /* Task 2: Counter */
 
 /* Create a function called `summation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. */
+// loop that takes x and minus 1 = y
+// takes that y and adds it to x
+function summation(param) {
+  para - 1 = y
+}
