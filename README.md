@@ -11,6 +11,7 @@ You are not allowed to collaborate during the sprint challenge. However, you are
 _You have **three hours** to complete this challenge. Plan your time accordingly._
 
 
+
 ## Introduction
 
 You will notice there are several JavaScript files being brought into the index.html file.  Each of those files contain JavaScript problems you need to solve.  If you get stuck on something, skip over it and come back to it later.
